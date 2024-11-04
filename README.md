@@ -1,4 +1,5 @@
 Food Wastage Management System
+
 Welcome to the Food Wastage Management System project! This project aims to address the critical issue of food wastage by providing a web-based platform where individuals, restaurants, and food establishments can collaborate to minimize food waste. The system allows users to donate excess food, find available food donations, and effectively manage food resources.
 
 Table of Contents
